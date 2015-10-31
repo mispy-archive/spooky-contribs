@@ -1,0 +1,31 @@
+.js-calendar-graph rect[fill="#d6e685"] {
+	fill: #FFEE4A;
+}
+
+.js-calendar-graph rect[fill="#8cc665"] {
+	fill: #FFC501;
+}
+
+.js-calendar-graph rect[fill="#44a340"] {
+	fill: #FE9600;
+}
+
+.js-calendar-graph rect[fill="#1e6823"] {
+	fill: #03001C;
+}
+
+.contrib-legend li:nth-of-type(2) {
+	background-color: #FFEE4A !important;
+}
+
+.contrib-legend li:nth-of-type(3) {
+	background-color: #FFC501 !important;
+}
+
+.contrib-legend li:nth-of-type(4) {
+	background-color: #FE9600 !important;
+}
+
+.contrib-legend li:nth-of-type(5) {
+	background-color: #03001C !important;
+}
